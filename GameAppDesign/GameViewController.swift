@@ -51,5 +51,4 @@ class GameViewController: UIViewController {
         return true
     }
     
-    //Commit Comment
 }
