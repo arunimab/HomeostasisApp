@@ -335,6 +335,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = GameAppDesign/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ISD-196.GameAppDesign";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,6 +347,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = GameAppDesign/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ISD-196.GameAppDesign";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -396,6 +398,7 @@
 				BA43B9DF1BFE2F3A00AC36ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA43B9E01BFE2F3A00AC36ED /* Build configuration list for PBXNativeTarget "GameAppDesignTests" */ = {
 			isa = XCConfigurationList;
@@ -404,6 +407,7 @@
 				BA43B9E21BFE2F3A00AC36ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
